@@ -10,7 +10,7 @@ const Toolbar = () => {
             <NavLink to="/" className="nav-link">Quotes</NavLink>
           </li>
           <li className="nav-item">
-            <NavLink to="/new-post " className="nav-link">Submit new quote</NavLink>
+            <NavLink to="/add-quote" className="nav-link">Submit new quote</NavLink>
           </li>
         </ul>
       </div>
